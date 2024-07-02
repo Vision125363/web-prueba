@@ -1,0 +1,74 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1719949236736">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4024525052" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u518.php" crc="323049209" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="audio-console-2723867-u726-fr.png" crc="3871377568" ref="index"/>
+    <file name="130624215718_la patrona logo 3 (1).png" crc="3801543660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u727-4.png" crc="387448552" ref="index"/>
+    <file name="podcast-4209770.png" crc="451018041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 36x36.png" crc="167986542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="on-air-4901461.jpg" crc="4052734918" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="on-air-4901461-u697-r-fr.png" crc="4112742176" ref="index"/>
+    <file name="on-air-764507 (1).jpg" crc="221558453" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="on-air-764507 (1)-u710-r-fr.png" crc="4031514059" ref="index"/>
+    <file name="studio-4004849.jpg" crc="4291132833" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u632-4.png" crc="4002985040" ref="index"/>
+    <file name="bmw_4_series_m_performance_package_8.jpg" crc="223161236" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bmw_4_series_m_performance_package_8-u647-r-fr.png" crc="238871079" ref="index"/>
+    <file name="bmw_4_series_m_performance_package_9.jpg" crc="3798640639" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bmw_4_series_m_performance_package_9-u637-r-fr.png" crc="3987031338" ref="index"/>
+    <file name="130624213652_hispanic soccer league logo.png" crc="387167929" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="130624213652_hispanic soccer league logo-u661-r-fr.png" crc="222917085" ref="index"/>
+    <file name="oipjfif.png" crc="447438866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microphone-1562354.jpg" crc="410275227" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="patronaradiotn-favicon.ico" crc="4010835556" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3878825943" seo="true" mt="1719947557676" redirect="true"/>
+</manifest>
